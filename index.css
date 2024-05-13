@@ -18,7 +18,7 @@ body {
 }
 
 .container{
-  border: solid 1px;
+
   color: white;
 
 }
@@ -33,7 +33,7 @@ p {
 }
 
 #profile {
-  border: solid 1px;
+
   height: 100px;
   width: 100px;
   border-radius: 50%;
